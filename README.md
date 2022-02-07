@@ -1,6 +1,6 @@
 # UnityPortalVFX
 This project was a test task for Unity technical artist role.
-![screenshot](Screenshots/UnityPortalVFX.gif)
+![screenshot](Screenshots/UnityPortalVFX_.gif)
 The task was to recreate one of the following provided examples:
 ![screenshot](Screenshots/ExamplePortalVFX.gif)
 
